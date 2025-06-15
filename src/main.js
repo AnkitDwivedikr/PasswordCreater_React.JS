@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 
 function PasswordGenerator(){
 
-    const[password, SetPassword] = useState("C#D2$1@3");
+    const[password, SetPassword] = useState("Ankit@587$Dwivedi");
     const[length, SetLength] = useState(10);
     const[numberChange, SetnumberChange] = useState();
     const[charChange, SetcharChange] = useState();
